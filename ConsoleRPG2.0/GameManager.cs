@@ -12,12 +12,25 @@ namespace ConsoleRPG2._0
 
         public GameManager()
         {
+            Draw();
             UserInput();
         }
 
         protected override void OnTick()
         {
-            Console.WriteLine("1");
+            Update();
+            Draw();
+            Console.Write("1");
+        }
+
+        private void Update()
+        {
+
+        }
+
+        private void Draw()
+        {
+            Console.SetCursorPosition(0, 0);
         }
 
         private void UserInput()
