@@ -1,0 +1,7 @@
+C:\Users\jared\Desktop\PROGRAMMING PORTFOLIO THINGS\ConsoleRPG2.0\ConsoleRPG2.0\bin\Debug\ConsoleRPG2.0.exe.config
+C:\Users\jared\Desktop\PROGRAMMING PORTFOLIO THINGS\ConsoleRPG2.0\ConsoleRPG2.0\bin\Debug\ConsoleRPG2.0.exe
+C:\Users\jared\Desktop\PROGRAMMING PORTFOLIO THINGS\ConsoleRPG2.0\ConsoleRPG2.0\bin\Debug\ConsoleRPG2.0.pdb
+C:\Users\jared\Desktop\PROGRAMMING PORTFOLIO THINGS\ConsoleRPG2.0\ConsoleRPG2.0\obj\Debug\ConsoleRPG2.0.csprojAssemblyReference.cache
+C:\Users\jared\Desktop\PROGRAMMING PORTFOLIO THINGS\ConsoleRPG2.0\ConsoleRPG2.0\obj\Debug\ConsoleRPG2.0.csproj.CoreCompileInputs.cache
+C:\Users\jared\Desktop\PROGRAMMING PORTFOLIO THINGS\ConsoleRPG2.0\ConsoleRPG2.0\obj\Debug\ConsoleRPG2.0.exe
+C:\Users\jared\Desktop\PROGRAMMING PORTFOLIO THINGS\ConsoleRPG2.0\ConsoleRPG2.0\obj\Debug\ConsoleRPG2.0.pdb

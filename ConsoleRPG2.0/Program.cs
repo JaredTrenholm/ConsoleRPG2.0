@@ -8,8 +8,13 @@ namespace ConsoleRPG2._0
 {
     class Program
     {
-        static void Main(string[] args)
+        #pragma warning disable IDE0052 // Remove unread private members
+        private static GameManager gm;
+
+        static void Main()
         {
+            gm = new GameManager();
+            Console.ReadKey(true);
         }
     }
 }
