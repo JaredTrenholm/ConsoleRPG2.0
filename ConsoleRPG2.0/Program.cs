@@ -14,7 +14,6 @@ namespace ConsoleRPG2._0
         static void Main()
         {
             gm = new GameManager();
-            Console.ReadKey(true);
         }
     }
 }

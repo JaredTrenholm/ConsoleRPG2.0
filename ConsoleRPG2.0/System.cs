@@ -25,7 +25,7 @@ namespace ConsoleRPG2._0
             while (true)
             {
                 sys.OnTick();
-                Thread.Sleep(0);
+                Thread.Sleep(1000);
             }
         }
 
